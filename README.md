@@ -19,4 +19,7 @@ The documents listed and held in this repository are the legal document template
 Below is a list of current documents held in this repository.
 - [Tangle DAO LLC - Liquidation Process](https://hackmd.io/@turIC_28RG6k6PG4qdRL8A/SkQkC9ldh) - The process which the committee shall follow when liquidating treasury assets.
 - [Terms of Use](https://hackmd.io/@turIC_28RG6k6PG4qdRL8A/ryvYjJsY3): Terms of Use agreement for the www.TangleTreasury.org website.
-- [GRANT RECEIVER AGREEMENT (Tier II, III, & IV)](https://hackmd.io/@turIC_28RG6k6PG4qdRL8A/S1WQ3pM5n): The grant receivers contract that must be signed by the Tangle DAO LLC and the grant receiver for grant tiers II, III, and IV.
+- [GRANT RECEIVER AGREEMENT (Tier II, III, & IV)](https://hackmd.io/@turIC_28RG6k6PG4qdRL8A/S1WQ3pM5n): The grant receivers contract that the Tangle DAO LLC must sign and the grant receiver for grant tiers II, III, and IV.
+- [Non-Disclosure Agreement](https://hackmd.io/@turIC_28RG6k6PG4qdRL8A/Hk65DEVq2): Non-disclosure agreement used when grant receivers require an NDA signed contract to discuss their grant application details with the Tangle Community Treasury committee.
+
+These documents will be revised throughout the time the committee operates as they are approved by the community. Any additional and future legal or process documents shall be listed in this repository.
