@@ -1,6 +1,6 @@
 ![Tangle Treasury Logo](https://github.com/Deep-Sea-888/Operation-Agreement/blob/main/smr_community_treasury_white_large.png?raw=true)
 
-<h2 align="center">Shimmer Community Framework</h2>
+<h2 align="center">Tangle DAO LLC</h2>
 
 <p align="center">
   <a href="https://discord.iota.org/" style="text-decoration:none;"><img src="https://img.shields.io/badge/Discord-9cf.svg?logo=discord" alt="Discord"></a>
@@ -8,12 +8,6 @@
   <a href="https://tangletreasury.org/" style="text-decoration:none;"><img src=https://img.shields.io/badge/TangleTreasury-.org-blue"
 </p>
   <a href="https://govern.iota.org/c/shimmer-governance-proposals/51" style="tex-decoration:none;"><img src="https://img.shields.io/badge/Govern-IOTA.org-lightgrey" </a>
-
-<p align="center">
-  <a href="#about">About</a> ◈
-  <a href="#contributions">Contributing</a> ◈
-  <a href="#joining-the-discussion">Joining the discussion</a> 
-</p>
 
 ---
 
