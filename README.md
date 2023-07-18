@@ -1,2 +1,4 @@
 # Tangle-DAO-LLC-Documentation
-This reposity is a collection of documentation specific to the Tangle DAO LLC. an entity formed in the Republic of the Marshall Islands which manages and operates the Shimmer Community Treasury committee and committee fund.
+This reposity is a collection of documentation specific to the Tangle DAO LLC, an entity formed in the Republic of the Marshall Islands that manages and operates the Shimmer Community Treasury committee and committee fund.
+
+The documents listed and held in this repository are the legal document templates with which Tangle DAO LLC operates. As the Tangle Treasury operates transparently, we offer these open-sourced documents to support other DAOs to form and enter the space. We can only succeed when we all work together! Additionally, this is a community DAO. If any community members happen to review these documents and have comments or revision suggestions, feel free to initiate a pull request or contact the program or co-lead of the Tangle Community Treasury.
